@@ -1,5 +1,8 @@
-![Logo](https://cdn.asthriona.com/asthriona_logo_white.png) 
+![Logo](https://cdn.asthriona.com/logohdblack.png) 
 # Hi! Welcome to my GitHub page!  
+## Who am I?
+Hey, i'm Quentin "Asthriona" Ng.
+Born in [France](https://www.google.co.jp/search?q=Lille), raised in [Japan (Gifu)](https://www.google.co.jp/search?q=gifu), Living in [UK](https://www.google.com/search?q=Ashford), I'm a self taugh JS developer, Trying to make fun stuff and usefull tools around the internet.  
 ## Things I'm working on:  
 Asthriona Networks.  
 ![](https://avatars2.githubusercontent.com/u/64365908?s=20&v=4) Yukiko   

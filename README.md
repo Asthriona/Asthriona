@@ -1,4 +1,4 @@
-![Logo](https://cdn.asthriona.com/logohdblack.png) 
+![Logo](https://asthriona.s3.fr-par.scw.cloud/img/2020/12/Asthriona_logo_fhd_black.png) 
 # Hi! Welcome to my GitHub page!  
 ## Who am I?
 Hey, i'm Quentin "Asthriona" Ng.

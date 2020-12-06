@@ -14,4 +14,4 @@ Asthriona Networks.
 ![Asthriona's github stats](https://github-readme-stats.vercel.app/api?username=asthriona&count_private=true&show_icons=true&theme=dracula)
   
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=asthriona&repo=yukiko&theme=dracula)](https://github.com/asthriona/yukiko)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asthriona&theme=dracula&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asthriona&theme=dracula&layout=compact)

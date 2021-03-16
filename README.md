@@ -1,4 +1,4 @@
-![Logo](https://placewaifu.com/image/960/250) 
+![Logo](https://asthriona.s3.fr-par.scw.cloud/ShareX/2021/03/114963-UveNLlSCDPVM.jpg) 
 <h1 align="center">Hi 👋, I'm Asthriona Ng</h1>
 <h3 align="center">I'm a self taught JS developper, Network Engineer, and Long time WoW Player.</h3>
 

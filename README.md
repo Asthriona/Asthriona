@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **JS, Golang, C, Python**
 
-- 📝 I regularly write articles on [https://blog.asthriona.com](https://blog.asthriona.com)
+- 📝 I regularly write articles on [https://asthriona.com/blog](https://Asthriona.com)
 
 - 💬 Ask me about **Express, Discord.js**
 

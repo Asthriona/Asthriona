@@ -1,5 +1,5 @@
 ![Logo](https://asthriona.s3.fr-par.scw.cloud/ShareX/2021/03/114963-UveNLlSCDPVM.jpg) 
-<h1 align="center">Hi 👋, I'm Asthriona Ng (^-^*)/</h1>
+<h1 align="center">Hi 👋, I'm Asthriona Kobayashi (^-^*)/</h1>
 <h3 align="center">I'm a self taught JS developper, Network Engineer, and Long time WoW Player.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asthriona&label=Profile%20views&color=0e75b6&style=flat" alt="asthriona" /> </p>
@@ -38,6 +38,8 @@
 
 ## S T A T S! (ﾉ>ω<)ﾉ :｡･:\*:･ﾟ’★,｡･:\*:･ﾟ’☆
 
+![GitHub metrics](https://metrics.lecoq.io/Asthriona)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asthriona)  
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asthriona&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asthriona" /></p>
 

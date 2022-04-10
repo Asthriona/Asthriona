@@ -46,3 +46,10 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asthriona&show_icons=true&theme=dracula&locale=en" alt="asthriona" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asthriona&theme=dark" alt="asthriona" /></p>
+
+
+
+
+
+================================= T E S T =================================
+![Metrics](https://metrics.lecoq.io/Asthriona?template=classic&isocalendar=1&habits=1&skyline=1&pagespeed=1&music=1&anilist=1&lines=1&stargazers=1&isocalendar.duration=full-year&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&stargazers.charts.type=classic&skyline.year=current-year&skyline.frames=60&skyline.quality=0.5&skyline.compatibility=false&pagespeed.url=https%3A%2F%2Fasthriona.com&pagespeed.detailed=true&pagespeed.screenshot=true&music.provider=spotify&music.mode=top&music.playlist=https%3A%2F%2Fopen.spotify.com%2Fplaylist%2F15beMdEbz1aa00lLXadqL9%3Fsi%3D4ef31ea232b54321&music.limit=4&music.played.at=true&music.time.range=short&music.top.type=tracks&music.user=siriussilva&anilist.medias=anime%2C%20manga&anilist.sections=favorites&anilist.limit=2&anilist.limit.characters=22&anilist.shuffle=true&anilist.user=Asthriona&config.timezone=Europe%2FParis)

@@ -49,6 +49,7 @@ jobs:
           plugin_music_mode: top
           plugin_music_played_at: yes
           plugin_music_playlist: https://open.spotify.com/playlist/15beMdEbz1aa00lLXadqL9?si=4ef31ea232b54321
+          plugin_music_token: "{{ secrets.SPOTIFY_CLIENT_ID }}, {{ secrets.SPOTIFY_CLIENT_SECRET }}, {{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_provider: spotify
           plugin_music_time_range: short
           plugin_music_top_type: tracks

@@ -1,5 +1,5 @@
 ![Logo](https://asthriona.s3.fr-par.scw.cloud/ShareX/2021/03/114963-UveNLlSCDPVM.jpg) 
-<h1 align="center">Hi 👋, I'm Asthriona Kobayashi (^-^*)/</h1>
+<h1 align="center">Hi 👋, I'm Asthriona (^-^*)/</h1>
 <h3 align="center">I'm a self taught JS developper, Network Engineer, and Long time WoW Player.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asthriona&label=Profile%20views&color=0e75b6&style=flat" alt="asthriona" /> </p>

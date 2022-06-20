@@ -52,9 +52,5 @@
 The following keys are owned by me, When a link can be provided, please follow said key server so see my public key.  
 if No link are provided, the keys are only availiable on Debian's keyering servers. Feel free to sign my keys if you feel like you can trust me, I'll be more than happy to do it on your keys in return.  
 ### Main key:  
-[C7D7BC3411B759FE on GPG.mit.edu](http://pgp.mit.edu/pks/lookup?op=get&search=0xC7D7BC3411B759FE)  
-[C7D7BC3411B759FE on asthriona.com](https://www.asthriona.com/pubkey.txt)  
-### WSL Key
-This key is only availiable on Debians's keyring server at the moment, this key is used to commit from my WSL.  
-[39C8252DB797ECDA on keyring.debian.org](https://keyring.debian.org/)  
-[39C8252DB797ECDA on GPG.mit.edu](http://pgp.mit.edu/pks/lookup?op=get&search=0x39C8252DB797ECDA)  
+I'VE LOST ALL MY KEYS.  
+ALL KEY WILL BE REVOKED SOON!

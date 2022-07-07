@@ -52,5 +52,4 @@
 The following keys are owned by me, When a link can be provided, please follow said key server so see my public key.  
 if No link are provided, the keys are only availiable on Debian's keyering servers. Feel free to sign my keys if you feel like you can trust me, I'll be more than happy to do it on your keys in return.  
 ### Main key:  
-I'VE LOST ALL MY KEYS.  
-ALL KEY WILL BE REVOKED SOON!
+[1CA84A5BAA7FE11D](http://162.213.33.9:11371/pks/lookup?search=1CA84A5BAA7FE11D&fingerprint=on&op=index)

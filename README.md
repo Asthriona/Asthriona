@@ -10,11 +10,15 @@
 
 - 🔭 I’m currently working on [Yukiko](https://Yukiko.app)
 
-- 🌱 I’m currently learning **JS, Golang, C, Python**
+- 🌱 I’m currently learning **Golang**
 
 - 📝 I regularly write articles on [https://asthriona.com/blog](https://Asthriona.com)
 
 - 💬 Ask me about **Express, Discord.js**
+
+- 🗣️ Spoken Language **French, English**
+
+- 🔰 Learning to speak **Japanese, Korean**
 
 - 📫 How to reach me **Ping@Asthriona.com**
 

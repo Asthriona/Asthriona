@@ -68,3 +68,5 @@ jobs:
           repositories_forks: yes
           plugin_splatoon: yes
           plugin_splatoon_token: ${{ secrets.SPLATOON_TOKEN }}
+          plugin_splatoon_statink: yes
+          plugin_splatoon_statink_token: ${{ secrets.SPLATOON_STATINK_TOKEN }}

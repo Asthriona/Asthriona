@@ -44,8 +44,6 @@
 
 ![Metrics](/github-metrics.svg)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Asthriona)  
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asthriona&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asthriona" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asthriona&show_icons=true&theme=dracula&locale=en" alt="asthriona" /></p>

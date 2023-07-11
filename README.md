@@ -1,6 +1,6 @@
 ![Logo](https://asthriona.s3.fr-par.scw.cloud/ShareX/2021/03/114963-UveNLlSCDPVM.jpg) 
 <h1 align="center">Hi 👋, I'm Asthriona (^-^*)/</h1>
-<h3 align="center">I'm a self taught JS developper, Network Engineer, and Long time WoW Player.</h3>
+<h3 align="center">I'm a self-taught developer, Network Engineer, and Long time WoW Player.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asthriona&label=Profile%20views&color=0e75b6&style=flat" alt="asthriona" /> </p>
 
@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **Ping@Asthriona.com**
 
-- ⚡ Fun fact **People call me "Cool kid" Because I know code, video editing, and I'm the best World of warcraft Tank. But don't let them fool you! I'm not cool!**
+- ⚡ Fun fact **People call me "The Cool Kid" Because I know code, video editing and I'm the best World of Warcraft Tank. But don't let them fool you! I'm not cool!**
 
 <h3 align="left">Connect with me: (つ≧▽≦)つ</h3>
 <p align="left">
@@ -51,8 +51,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asthriona&theme=dark" alt="asthriona" /></p>
 
 ## GPG KEYS ᕦ( ✿ ⊙ ͜ʖ ⊙ ✿ )━☆ﾟ.\*･｡ﾟ  
-The following keys are owned by me, When a link can be provided, please follow said key server so see my public key.  
-if No link are provided, the keys are only availiable on Debian's keyering servers. Feel free to sign my keys if you feel like you can trust me, I'll be more than happy to do it on your keys in return.  
+The following keys are owned by me, When a link can be provided, please follow said key server to see my public key.  
+if No links is provided, the keys are only available on Debian's keyring servers. Feel free to sign my keys if you feel like you can trust me, I'll be more than happy to do it on your keys in return.  
 ### Main key:  
 [1CA84A5BAA7FE11D](http://162.213.33.9:11371/pks/lookup?search=1CA84A5BAA7FE11D&fingerprint=on&op=index)
 

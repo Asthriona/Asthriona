@@ -44,15 +44,15 @@
 
 ![Metrics](/github-metrics.svg)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asthriona&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asthriona" /></p>
+<p><img align="left" src="https://githubstats.asthriona.com/api/top-langs?username=asthriona&show_icons=true&theme=dracula&locale=en&layout=compact" alt="asthriona" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asthriona&show_icons=true&theme=dracula&locale=en" alt="asthriona" /></p>
+<p>&nbsp;<img align="center" src="https://githubstats.asthriona.com/api?username=asthriona&show_icons=true&theme=dracula&locale=en" alt="asthriona" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asthriona&theme=dark" alt="asthriona" /></p>
 
 ## GPG KEYS ᕦ( ✿ ⊙ ͜ʖ ⊙ ✿ )━☆ﾟ.\*･｡ﾟ  
 The following keys are owned by me, When a link can be provided, please follow said key server to see my public key.  
-if No links is provided, the keys are only available on Debian's keyring servers. Feel free to sign my keys if you feel like you can trust me, I'll be more than happy to do it on your keys in return.  
+if No links are provided, the keys are only available on Debian's keyring servers. Feel free to sign my keys if you feel like you can trust me, I'll be more than happy to do it on your keys in return.  
 ### Main key:  
 [1CA84A5BAA7FE11D](http://162.213.33.9:11371/pks/lookup?search=1CA84A5BAA7FE11D&fingerprint=on&op=index)
 

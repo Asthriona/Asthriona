@@ -34,7 +34,6 @@
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=siriussilva&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=siriussilva&redirect=true)
 
 ### Discord (つ✧ω✧)つ
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=siriussilva&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=siriussilva&redirect=true)
 [![](https://discord-status.asthriona.com/img/754359468275531906?lol=true)](https://discord-status.asthriona.com/img/754359468275531906?lol=true)
 
 <h3 align="left">Languages and Tools:</h3>

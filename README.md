@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Express, Discord.js**
 
-- 🗣️ Spoken Language **Japanesem French, English**
+- 🗣️ Spoken Language **Japanese, French, English**
 
 - 🔰 Learning to speak **Indonedian, Korean**
 

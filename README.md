@@ -16,9 +16,9 @@
 
 - 💬 Ask me about **Express, Discord.js**
 
-- 🗣️ Spoken Language **French, English**
+- 🗣️ Spoken Language **Japanesem French, English**
 
-- 🔰 Learning to speak **Japanese, Korean**
+- 🔰 Learning to speak **Indonedian, Korean**
 
 - 📫 How to reach me **Ping@Asthriona.com**
 

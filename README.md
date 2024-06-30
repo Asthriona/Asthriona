@@ -31,7 +31,7 @@
 </p>
 
 ### Spotify ♪♪ 乁( • ω •乁) ♪♪
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=siriussilva&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=siriussilva&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=siriussilva&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=siriussilva&redirect=true)
 
 ### Discord (つ✧ω✧)つ
 [![](https://discord-status.asthriona.com/img/754359468275531906?lol=true)](https://discord-status.asthriona.com/img/754359468275531906?lol=true)

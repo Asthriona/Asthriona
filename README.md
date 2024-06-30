@@ -18,7 +18,7 @@
 
 - 🗣️ Spoken Language **Japanese, French, English**
 
-- 🔰 Learning to speak **Indonedian, Korean**
+- 🔰 Learning to speak **Indonesian, Korean**
 
 - 📫 How to reach me **Ping@Asthriona.com**
 

@@ -8,13 +8,13 @@
 
 <p align="left"> <a href="https://twitter.com/asthriona" target="blank"><img src="https://img.shields.io/twitter/follow/asthriona?logo=twitter&style=for-the-badge" alt="asthriona" /></a> </p>
 
-- 🔭 I’m currently working on [Yukiko](https://Yukiko.app)
+- 🔭 I’m currently working on Changing career path.
 
-- 🌱 I’m currently learning **Golang**
+- 🌱 I’m currently learning **Race cars**
 
 - 📝 I regularly write articles on [https://asthriona.com/blog](https://Asthriona.com)
 
-- 💬 Ask me about **Express, Discord.js**
+- 💬 Ask me about **The AMG GT3 Evo and cars in general**
 
 - 🗣️ Spoken Language **Japanese, French, English**
 

@@ -69,8 +69,8 @@ jobs:
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: no
-          plugin_steam_user: "0"
+          plugin_steam: yes
+          plugin_steam_user: "94190537"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
           repositories_forks: yes

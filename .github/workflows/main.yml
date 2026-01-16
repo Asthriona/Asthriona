@@ -62,14 +62,14 @@ jobs:
           plugin_pagespeed_screenshot: no
           plugin_pagespeed_url: https://asthriona.com
           plugin_pagespeed_token: ${{ secrets.PSI_TOKEN }}
-          plugin_skyline: yes
+          plugin_skyline: no
           plugin_skyline_frames: 60
           plugin_skyline_quality: 0.5
           plugin_skyline_year: current-year
           plugin_stargazers: yes
           plugin_stargazers_charts_type: classic
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
-          plugin_steam: yes
+          plugin_steam: no
           plugin_steam_user: "94190537"
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
